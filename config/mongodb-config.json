@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+        "server": "cluster0-k8vri.mongodb.net",
+        "database": "hire",
+        "user": "app_user",
+        "password": "33otB4Ansna6Bnuu"
+    }
+}
